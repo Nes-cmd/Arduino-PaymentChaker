@@ -19,4 +19,6 @@ It is arduino and GSM based device to receive the payment and verify it for user
 
 <img src="demo/img.png">
 
-<a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D155086329581275%26id%3D102279431528632&show_text=true&width=500"></a>
+<a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D155086329581275%26id%3D102279431528632&show_text=true&width=500">See on Facebook</a>
+
+# Next version which will be integrated with TELE-BIRR is coming soon! 
