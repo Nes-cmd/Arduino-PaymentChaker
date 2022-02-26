@@ -5,9 +5,9 @@ This project is for the purpose of cheking who is payed or not payed for particu
 
  # It has 2 parts
 
-   ## Server to register and receive datas
+   ## 1 Server to register and receive datas
 
-   ## Device to check status of payment.
+   ## 2 Device to check status of payment.
 
 # The Server
 
@@ -19,6 +19,6 @@ It is arduino and GSM based device to receive the payment and verify it for user
 
 <img src="demo_image/img.png">
 
-<a href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D155086329581275%26id%3D102279431528632&show_text=true&width=500">See on Facebook</a>
+<a target="new" href="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D155086329581275%26id%3D102279431528632&show_text=true&width=500">See on Facebook</a>
 
 # Next version which will be integrated with TELE-BIRR is coming soon! 
